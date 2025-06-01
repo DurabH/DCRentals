@@ -23,7 +23,7 @@ User Dashboard:
 ![image](https://github.com/user-attachments/assets/ebd21a2b-6aa6-48cc-8f1b-4b2099080945)
 
 User Booking Car:
-*![image](https://github.com/user-attachments/assets/cd829e8e-f659-4b4f-9191-60595529e74c)
+![image](https://github.com/user-attachments/assets/cd829e8e-f659-4b4f-9191-60595529e74c)
 
 User Bookings:
 ![image](https://github.com/user-attachments/assets/8fe38cc5-c914-4aca-aefc-ccd5ef325353)
@@ -50,8 +50,8 @@ Provider Dashboard:
 
 Provider Manage Cars Page:
 
-[image](https://github.com/user-attachments/assets/ebfc48b8-83be-4adb-b493-dd612c05c009)
-[image](https://github.com/user-attachments/assets/bbfc2f0c-f0b4-43d8-b183-9071107fbb9b)
+![image](https://github.com/user-attachments/assets/ebfc48b8-83be-4adb-b493-dd612c05c009)
+![image](https://github.com/user-attachments/assets/bbfc2f0c-f0b4-43d8-b183-9071107fbb9b)
   
 Provider Queries Page:
 

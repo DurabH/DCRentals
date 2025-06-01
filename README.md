@@ -50,9 +50,9 @@ Provider Dashboard:
 
 Provider Manage Cars Page:
 
-![image](https://github.com/user-attachments/assets/ebfc48b8-83be-4adb-b493-dd612c05c009)
-![image](https://github.com/user-attachments/assets/bbfc2f0c-f0b4-43d8-b183-9071107fbb9b)
-
+[image](https://github.com/user-attachments/assets/ebfc48b8-83be-4adb-b493-dd612c05c009)
+[image](https://github.com/user-attachments/assets/bbfc2f0c-f0b4-43d8-b183-9071107fbb9b)
+  
 Provider Queries Page:
 
 ![image](https://github.com/user-attachments/assets/482cdcbd-42f6-4299-9c31-d99a126cf57c)
